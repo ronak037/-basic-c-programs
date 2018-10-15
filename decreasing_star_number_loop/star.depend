@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536349696 source:f:\c language\c programming projects\star\main.c
+	<stdio.h>
+	<stdlib.h>
+
