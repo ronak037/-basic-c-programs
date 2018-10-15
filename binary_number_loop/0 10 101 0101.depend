@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # depslib dependency file v1.0
 1536428264 source:f:\c language\c programming projects\0 10 101 0101\main.c
 	<stdio.h>
 	<stdlib.h>
 
+=======
+# depslib dependency file v1.0
+1536428264 source:f:\c language\c programming projects\0 10 101 0101\main.c
+	<stdio.h>
+	<stdlib.h>
+
+>>>>>>> f766c3b177a9dd761c23306b574fc78d20893f57
