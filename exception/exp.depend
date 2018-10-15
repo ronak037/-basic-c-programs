@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1533755198 source:f:\c language\c programming projects\fwr\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1533755198 source:f:\c language\c programming projects\exception\main.c
+	<stdio.h>
+	<stdlib.h>
+
